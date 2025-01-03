@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://github.com/nessprjct/Nesrine-ZARRAD/blob/main/bg.png" alt="Nesrine Zarrad" />
+  <img src="https://github.com/nessprjct/nessprjct/blob/main/bg.png" alt="Nesrine Zarrad" />
 </h1>
 <h1 align="center">Hello there👋! I'm Nesrine ZARRAD <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <h3 align="center">I'm 21 years old, engineering student passionate AI</h3>

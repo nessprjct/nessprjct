@@ -5,7 +5,7 @@
 <h1 align="center">Hello there👋! I'm Nesrine ZARRAD <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <h3 align="center">I'm 22 years old, engineering student passionate AI & Data Scientist </h3>
 
-Motivated with hands-on experience in AI, specializing in Machine Learning, Deep Learning, and NLP. Contributed to impactful projects like a RAG-based medical chatbot and sign language detection using OpenCV. Proficient in Python, TensorFlow, and data analysis tools, with a passion for solving real-world problems through innovative AI solutions.
+Motivated engineering student with hands-on experience in AI, specializing in Machine Learning, Deep Learning, and NLP. Contributed to impactful projects like a RAG-based medical chatbot and Multi-Class of Brain Tumors. Proficient in Python, TensorFlow, and data analysis tools, with a passion for solving real-world problems through innovative AI solutions.
 
 <h3> My Digital Garden :</h3>
 
